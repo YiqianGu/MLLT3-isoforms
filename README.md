@@ -4,6 +4,9 @@ All scripts and processed data from this paper could be found at: https://drive.
 # ChIP-sequencing
 # ATAC-sequencing
 # Bulk RNA-sequencing
+All scripts and processed data related with Bulk RNA-sequencing data in this paper could be found at: https://drive.google.com/drive/u/0/folders/1Ftw7dxFGfhx65MO2PG3GjTKAE2yp2A0Z
+There are: 1. scripts to generate salmon index (salmon_index.sh) and tp perform salmon quantification (salmon_quant.sh); 2. output of salmon quantification (salmon_output); 3. scripts and figures to visulize salmon quantification (quantification); 4. a mapping table to indicate which samples are included in set1, set2, and set4 (set_to_fastq.xlsx).
+
 # Single-cell RNA sequencing
 # PacBio Iso-seq
 All scripts and processed data related with PacBio Iso-seq data in this paper could be found at: https://drive.google.com/drive/u/0/folders/1ziqMhuJhy0pNcX2cee6zEU-1S9A2HQfT
