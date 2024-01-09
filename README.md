@@ -7,8 +7,13 @@ All scripts and processed data from this paper could be found at: https://drive.
 # Single-cell RNA sequencing
 # PacBio Iso-seq
 All scripts and processed data related with PacBio Iso-seq data in this paper could be found at: https://drive.google.com/drive/u/0/folders/1ziqMhuJhy0pNcX2cee6zEU-1S9A2HQfT
-Scripts and processed data related with isoform quantification could be found at:https://drive.google.com/drive/u/0/folders/1bV1Fro2eKWlT-oYgICXavLCY_W7eF6t3. There are: 1. raw iso-seq data of one cord blood sample and one fetal liver sample (raw data); 2.scripts to perform adapter removement, polyA and chimeric reads elimination, alignment (s0.raw_read_processing.smk); 3.scripts to perform non-canonical splice junctions correction(s1.process_sams.smk), scripts to perform annotation, novel isoform identification, filteration, and quantification (s2.talon_pipeline.smk, s3.talon_filter.smk); 4. TPM per transript (combined_filt_talon_abundance_filtered.tsv)
-Scripts and processed data related with open reading frame could be found at: https://drive.google.com/drive/u/0/folders/1dheQjZNZN52hKbRRj4tXqDEKvt3CUc70
 
+Scripts and processed data related with isoform quantification could be found at:https://drive.google.com/drive/u/0/folders/1bV1Fro2eKWlT-oYgICXavLCY_W7eF6t3. 
+There are: 1. raw iso-seq data of one cord blood sample and one fetal liver sample (raw data); 2.scripts to perform adapter removement, polyA and chimeric reads elimination, alignment (s0.raw_read_processing.smk); 3.scripts to perform non-canonical splice junctions correction(s1.process_sams.smk), scripts to perform annotation, novel isoform identification, filteration, and quantification (s2.talon_pipeline.smk, s3.talon_filter.smk); 4. TPM per transript (combined_filt_talon_abundance_filtered.tsv)
+
+Scripts and processed data related with open reading frame could be found at: https://drive.google.com/drive/u/0/folders/1dheQjZNZN52hKbRRj4tXqDEKvt3CUc70
+There are: 1. Scripts to find open reading frames (subset.sh and find_ORFs.cds.py); 2. Open reading frame predictions with different cutoffs and gene assemblies (custom_gtfs).
+
+Scripts related transcript structure and abundance visulization could be found at: https://drive.google.com/drive/u/0/folders/1Fmo5FPaoXO-cBNYSdfDFeGK6O8-GkgoS
 
 
